@@ -1,5 +1,5 @@
 '''
-Useful Import - 李翊瑜 製作
+Useful Import - 張三 製作
 
 這是一個多功能 Python 工具箱，提供數學、隨機、時間、特殊效果、Windows 自動化、滑鼠鍵盤控制、螢幕操作、網頁自動化等實用功能。
 
